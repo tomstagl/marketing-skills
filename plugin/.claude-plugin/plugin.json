@@ -1,0 +1,9 @@
+{
+  "name": "marketing",
+  "version": "0.1.0",
+  "description": "Brand-agnostic blog drafts, social posts and voice checks. Each repo supplies its voice, channels and publish target in .claude/marketing.md",
+  "author": { "name": "Thomas Stagl" },
+  "homepage": "https://github.com/tomstagl/marketing-skills",
+  "skills": "./skills/",
+  "keywords": ["marketing", "blog", "social", "voice", "datocms", "content"]
+}
